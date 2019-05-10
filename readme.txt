@@ -1,6 +1,2 @@
-<NotepadPlus>
-    <Session activeView="0">
-        <mainView activeIndex="0" />
-        <subView activeIndex="0" />
-    </Session>
-</NotepadPlus>
+Git is a version control system.
+Git is free software.
